@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @aelvismorales, estudiante de Ciencias de la Computación en la UPC
-- 👀 I’m interested  .. en la tecnologia y el uso que podemos darle a cada una de esas cosas y como estos pueden evolucionar con el tiempo.
+- 👋 Hi, I’m @aelvismorales, student of Computer Sciente at UPC
+- 👀 I’m interested  .. in the technologia and how er can use it to explore new possibilitys.
 - 🌱 I’m currently learning ... C++,Python,Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me throught email : cristopherelvism@gmail.com
 
 <!---
 aelvismorales/aelvismorales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
